@@ -1,0 +1,23 @@
+{
+  "name": "zmhan-github",
+  "version": "0.1.0",
+  "description": "Miscellaneous Web Projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zmhan-github/misc-web-projects.git"
+  },
+  "keywords": [],
+  "author": "Marat Zh.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zmhan-github/misc-web-projects/issues"
+  },
+  "homepage": "https://github.com/Zmhan-github/misc-web-projects#readme",
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
+}
